@@ -18,7 +18,11 @@ body {
 }
 
 /* added from master */
-button {border:10px solid gold;background-color:#FFF;}
+button {
+	border:10px solid gold;
+	background-color:#FFF;
+	border-top:none;
+}
 
 article,
 aside,
