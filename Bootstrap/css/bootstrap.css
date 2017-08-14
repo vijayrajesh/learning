@@ -37,7 +37,9 @@ menu,
 nav,
 section,
 summary {
+  /* comment added for article section in master */
   display: block;
+  
 }
 audio,
 canvas,
