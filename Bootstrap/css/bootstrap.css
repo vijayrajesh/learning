@@ -11,8 +11,8 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-body {
-  margin: 0;
+body { 
+  margin: 0; 
   background-color:gold;
   border:10px solid gold;
 }
