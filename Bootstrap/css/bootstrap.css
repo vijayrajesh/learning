@@ -12,12 +12,9 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
-<<<<<<< HEAD
-  background-color:gold;
-=======
+  margin: 0; 
+  background-color:gold; 
   border:10px solid gold;
->>>>>>> refs/remotes/origin/master
 }
 article,
 aside,
