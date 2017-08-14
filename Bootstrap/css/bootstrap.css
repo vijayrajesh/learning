@@ -16,6 +16,10 @@ body {
   background-color:gold;
   border:10px solid gold;
 }
+
+/* added from master */
+button {border:10px solid gold;}
+
 article,
 aside,
 details,
