@@ -13,7 +13,11 @@ html {
 }
 body {
   margin: 0;
+<<<<<<< HEAD
   background-color:gold;
+=======
+  border:10px solid gold;
+>>>>>>> refs/remotes/origin/master
 }
 article,
 aside,
