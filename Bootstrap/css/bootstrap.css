@@ -26,6 +26,7 @@ button {
 
 .button1 {
 	background-color:gold;
+	border-top:none;
 }
 
 article,
