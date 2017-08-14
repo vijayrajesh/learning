@@ -12,13 +12,11 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
-	
-  margin: 10px; 
-  
   background-color:yellow;
   border:10px solid gold;
   border-bottom:none; /* adding from master */
   background-image : url("http://google.com/img.jpg");
+  margin: 10px;  
 }
 
 /* added from master */
