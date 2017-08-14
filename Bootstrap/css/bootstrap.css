@@ -24,6 +24,10 @@ button {
 	border-top:none;
 }
 
+.button1 {
+	background-color:gold;
+}
+
 article,
 aside,
 details,
