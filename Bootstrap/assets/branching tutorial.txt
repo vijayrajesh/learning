@@ -1,0 +1,7 @@
+Create branch name "Music_New_Headers"
+
+Publish
+
+Tried to edit sidebar.php and added a enter charcter.
+
+synced (synced to remote branch and not to master)
