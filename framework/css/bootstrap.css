@@ -17,7 +17,7 @@ html {
 }
 body {
   background-color:yellow;
-  border:10px solid gold;
+  border:8px solid gold;
   border-bottom:none; /* adding from master */
   background-image : url("http://google.com/img.jpg");
   padding:10px;
